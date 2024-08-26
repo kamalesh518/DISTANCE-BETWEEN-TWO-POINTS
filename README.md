@@ -17,7 +17,7 @@ print the distance in two decimal
 ```python
 #Program to find the distance between two points.
 #Developed by: prithviraj
-#RegisterNumber:22004659
+#RegisterNumber:212222100038
 import math
 a= [10,6]
 b=[4,2]
@@ -27,7 +27,8 @@ print("{:.2f}".format(dis))
 
 
 ### OUTPUT:
-![output](distance.png)
+![image](https://github.com/user-attachments/assets/3ebe421b-0521-4579-8dd9-1a5cab2e2c4c)
+
 
 
 ### RESULT:
