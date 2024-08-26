@@ -27,7 +27,8 @@ print("{:.2f}".format(dis))
 
 
 ### OUTPUT:
-![image](https://github.com/user-attachments/assets/3ebe421b-0521-4579-8dd9-1a5cab2e2c4c)
+![image](https://github.com/user-attachments/assets/a59df4db-4693-41ac-93b8-10bd953ea885)
+
 
 
 
